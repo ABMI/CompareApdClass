@@ -1,0 +1,241 @@
+targetId,comparatorId,outcomeId,outcomeName,type
+2591,2592,381581,Chalazion,outcome
+2591,2592,260134,Croup,outcome
+2591,2592,196456,Gallstone,outcome
+2591,2592,441788,Human papilloma virus infection,outcome
+2591,2592,139099,Ingrowing nail,outcome
+2591,2592,4134455,Mononeuropathy,outcome
+2591,2592,4215978,Onychomycosis,outcome
+2591,2592,4112731,Polyp of intestine,outcome
+2591,2592,140641,Verruca vulgaris,outcome
+2591,2592,260427,Common cold,outcome
+2591,2592,4332246,Aneurysm,outcome
+2591,2592,432585,Blood coagulation disorder,outcome
+2591,2592,77310,Deep vein phlebitis and thrombophlebitis of the leg,outcome
+2591,2592,4010658,Difficulty passing urine,outcome
+2591,2592,440674,Gout,outcome
+2591,2592,4078925,Pulmonary edema,outcome
+2591,2592,378416,Retinal disorder,outcome
+2591,2592,4032878,Hair follicle disorder,outcome
+2591,2592,194475,Hiccoughs,outcome
+2591,2592,377910,Deviated nasal septum,outcome
+2591,2593,381581,Chalazion,outcome
+2591,2593,260134,Croup,outcome
+2591,2593,196456,Gallstone,outcome
+2591,2593,441788,Human papilloma virus infection,outcome
+2591,2593,139099,Ingrowing nail,outcome
+2591,2593,4134455,Mononeuropathy,outcome
+2591,2593,4215978,Onychomycosis,outcome
+2591,2593,4112731,Polyp of intestine,outcome
+2591,2593,140641,Verruca vulgaris,outcome
+2591,2593,260427,Common cold,outcome
+2591,2593,4332246,Aneurysm,outcome
+2591,2593,432585,Blood coagulation disorder,outcome
+2591,2593,77310,Deep vein phlebitis and thrombophlebitis of the leg,outcome
+2591,2593,4010658,Difficulty passing urine,outcome
+2591,2593,440674,Gout,outcome
+2591,2593,4078925,Pulmonary edema,outcome
+2591,2593,378416,Retinal disorder,outcome
+2591,2593,4032878,Hair follicle disorder,outcome
+2591,2593,194475,Hiccoughs,outcome
+2591,2593,377910,Deviated nasal septum,outcome
+2591,2594,381581,Chalazion,outcome
+2591,2594,260134,Croup,outcome
+2591,2594,196456,Gallstone,outcome
+2591,2594,441788,Human papilloma virus infection,outcome
+2591,2594,139099,Ingrowing nail,outcome
+2591,2594,4134455,Mononeuropathy,outcome
+2591,2594,4215978,Onychomycosis,outcome
+2591,2594,4112731,Polyp of intestine,outcome
+2591,2594,140641,Verruca vulgaris,outcome
+2591,2594,260427,Common cold,outcome
+2591,2594,4332246,Aneurysm,outcome
+2591,2594,432585,Blood coagulation disorder,outcome
+2591,2594,77310,Deep vein phlebitis and thrombophlebitis of the leg,outcome
+2591,2594,4010658,Difficulty passing urine,outcome
+2591,2594,440674,Gout,outcome
+2591,2594,4078925,Pulmonary edema,outcome
+2591,2594,378416,Retinal disorder,outcome
+2591,2594,4032878,Hair follicle disorder,outcome
+2591,2594,194475,Hiccoughs,outcome
+2591,2594,377910,Deviated nasal septum,outcome
+2594,2593,381581,Chalazion,outcome
+2594,2593,260134,Croup,outcome
+2594,2593,196456,Gallstone,outcome
+2594,2593,441788,Human papilloma virus infection,outcome
+2594,2593,139099,Ingrowing nail,outcome
+2594,2593,4134455,Mononeuropathy,outcome
+2594,2593,4215978,Onychomycosis,outcome
+2594,2593,4112731,Polyp of intestine,outcome
+2594,2593,140641,Verruca vulgaris,outcome
+2594,2593,260427,Common cold,outcome
+2594,2593,4332246,Aneurysm,outcome
+2594,2593,432585,Blood coagulation disorder,outcome
+2594,2593,77310,Deep vein phlebitis and thrombophlebitis of the leg,outcome
+2594,2593,4010658,Difficulty passing urine,outcome
+2594,2593,440674,Gout,outcome
+2594,2593,4078925,Pulmonary edema,outcome
+2594,2593,378416,Retinal disorder,outcome
+2594,2593,4032878,Hair follicle disorder,outcome
+2594,2593,194475,Hiccoughs,outcome
+2594,2593,377910,Deviated nasal septum,outcome
+2594,2592,381581,Chalazion,outcome
+2594,2592,260134,Croup,outcome
+2594,2592,196456,Gallstone,outcome
+2594,2592,441788,Human papilloma virus infection,outcome
+2594,2592,139099,Ingrowing nail,outcome
+2594,2592,4134455,Mononeuropathy,outcome
+2594,2592,4215978,Onychomycosis,outcome
+2594,2592,4112731,Polyp of intestine,outcome
+2594,2592,140641,Verruca vulgaris,outcome
+2594,2592,260427,Common cold,outcome
+2594,2592,4332246,Aneurysm,outcome
+2594,2592,432585,Blood coagulation disorder,outcome
+2594,2592,77310,Deep vein phlebitis and thrombophlebitis of the leg,outcome
+2594,2592,4010658,Difficulty passing urine,outcome
+2594,2592,440674,Gout,outcome
+2594,2592,4078925,Pulmonary edema,outcome
+2594,2592,378416,Retinal disorder,outcome
+2594,2592,4032878,Hair follicle disorder,outcome
+2594,2592,194475,Hiccoughs,outcome
+2594,2592,377910,Deviated nasal septum,outcome
+2592,2593,381581,Chalazion,outcome
+2592,2593,260134,Croup,outcome
+2592,2593,196456,Gallstone,outcome
+2592,2593,441788,Human papilloma virus infection,outcome
+2592,2593,139099,Ingrowing nail,outcome
+2592,2593,4134455,Mononeuropathy,outcome
+2592,2593,4215978,Onychomycosis,outcome
+2592,2593,4112731,Polyp of intestine,outcome
+2592,2593,140641,Verruca vulgaris,outcome
+2592,2593,260427,Common cold,outcome
+2592,2593,4332246,Aneurysm,outcome
+2592,2593,432585,Blood coagulation disorder,outcome
+2592,2593,77310,Deep vein phlebitis and thrombophlebitis of the leg,outcome
+2592,2593,4010658,Difficulty passing urine,outcome
+2592,2593,440674,Gout,outcome
+2592,2593,4078925,Pulmonary edema,outcome
+2592,2593,378416,Retinal disorder,outcome
+2592,2593,4032878,Hair follicle disorder,outcome
+2592,2593,194475,Hiccoughs,outcome
+2592,2593,377910,Deviated nasal septum,outcome
+2604,2605,381581,Chalazion,outcome
+2604,2605,260134,Croup,outcome
+2604,2605,196456,Gallstone,outcome
+2604,2605,441788,Human papilloma virus infection,outcome
+2604,2605,139099,Ingrowing nail,outcome
+2604,2605,4134455,Mononeuropathy,outcome
+2604,2605,4215978,Onychomycosis,outcome
+2604,2605,4112731,Polyp of intestine,outcome
+2604,2605,140641,Verruca vulgaris,outcome
+2604,2605,260427,Common cold,outcome
+2604,2605,4332246,Aneurysm,outcome
+2604,2605,432585,Blood coagulation disorder,outcome
+2604,2605,77310,Deep vein phlebitis and thrombophlebitis of the leg,outcome
+2604,2605,4010658,Difficulty passing urine,outcome
+2604,2605,440674,Gout,outcome
+2604,2605,4078925,Pulmonary edema,outcome
+2604,2605,378416,Retinal disorder,outcome
+2604,2605,4032878,Hair follicle disorder,outcome
+2604,2605,194475,Hiccoughs,outcome
+2604,2605,377910,Deviated nasal septum,outcome
+2604,2607,381581,Chalazion,outcome
+2604,2607,260134,Croup,outcome
+2604,2607,196456,Gallstone,outcome
+2604,2607,441788,Human papilloma virus infection,outcome
+2604,2607,139099,Ingrowing nail,outcome
+2604,2607,4134455,Mononeuropathy,outcome
+2604,2607,4215978,Onychomycosis,outcome
+2604,2607,4112731,Polyp of intestine,outcome
+2604,2607,140641,Verruca vulgaris,outcome
+2604,2607,260427,Common cold,outcome
+2604,2607,4332246,Aneurysm,outcome
+2604,2607,432585,Blood coagulation disorder,outcome
+2604,2607,77310,Deep vein phlebitis and thrombophlebitis of the leg,outcome
+2604,2607,4010658,Difficulty passing urine,outcome
+2604,2607,440674,Gout,outcome
+2604,2607,4078925,Pulmonary edema,outcome
+2604,2607,378416,Retinal disorder,outcome
+2604,2607,4032878,Hair follicle disorder,outcome
+2604,2607,194475,Hiccoughs,outcome
+2604,2607,377910,Deviated nasal septum,outcome
+2604,2606,381581,Chalazion,outcome
+2604,2606,260134,Croup,outcome
+2604,2606,196456,Gallstone,outcome
+2604,2606,441788,Human papilloma virus infection,outcome
+2604,2606,139099,Ingrowing nail,outcome
+2604,2606,4134455,Mononeuropathy,outcome
+2604,2606,4215978,Onychomycosis,outcome
+2604,2606,4112731,Polyp of intestine,outcome
+2604,2606,140641,Verruca vulgaris,outcome
+2604,2606,260427,Common cold,outcome
+2604,2606,4332246,Aneurysm,outcome
+2604,2606,432585,Blood coagulation disorder,outcome
+2604,2606,77310,Deep vein phlebitis and thrombophlebitis of the leg,outcome
+2604,2606,4010658,Difficulty passing urine,outcome
+2604,2606,440674,Gout,outcome
+2604,2606,4078925,Pulmonary edema,outcome
+2604,2606,378416,Retinal disorder,outcome
+2604,2606,4032878,Hair follicle disorder,outcome
+2604,2606,194475,Hiccoughs,outcome
+2604,2606,377910,Deviated nasal septum,outcome
+2607,2605,381581,Chalazion,outcome
+2607,2605,260134,Croup,outcome
+2607,2605,196456,Gallstone,outcome
+2607,2605,441788,Human papilloma virus infection,outcome
+2607,2605,139099,Ingrowing nail,outcome
+2607,2605,4134455,Mononeuropathy,outcome
+2607,2605,4215978,Onychomycosis,outcome
+2607,2605,4112731,Polyp of intestine,outcome
+2607,2605,140641,Verruca vulgaris,outcome
+2607,2605,260427,Common cold,outcome
+2607,2605,4332246,Aneurysm,outcome
+2607,2605,432585,Blood coagulation disorder,outcome
+2607,2605,77310,Deep vein phlebitis and thrombophlebitis of the leg,outcome
+2607,2605,4010658,Difficulty passing urine,outcome
+2607,2605,440674,Gout,outcome
+2607,2605,4078925,Pulmonary edema,outcome
+2607,2605,378416,Retinal disorder,outcome
+2607,2605,4032878,Hair follicle disorder,outcome
+2607,2605,194475,Hiccoughs,outcome
+2607,2605,377910,Deviated nasal septum,outcome
+2607,2606,381581,Chalazion,outcome
+2607,2606,260134,Croup,outcome
+2607,2606,196456,Gallstone,outcome
+2607,2606,441788,Human papilloma virus infection,outcome
+2607,2606,139099,Ingrowing nail,outcome
+2607,2606,4134455,Mononeuropathy,outcome
+2607,2606,4215978,Onychomycosis,outcome
+2607,2606,4112731,Polyp of intestine,outcome
+2607,2606,140641,Verruca vulgaris,outcome
+2607,2606,260427,Common cold,outcome
+2607,2606,4332246,Aneurysm,outcome
+2607,2606,432585,Blood coagulation disorder,outcome
+2607,2606,77310,Deep vein phlebitis and thrombophlebitis of the leg,outcome
+2607,2606,4010658,Difficulty passing urine,outcome
+2607,2606,440674,Gout,outcome
+2607,2606,4078925,Pulmonary edema,outcome
+2607,2606,378416,Retinal disorder,outcome
+2607,2606,4032878,Hair follicle disorder,outcome
+2607,2606,194475,Hiccoughs,outcome
+2607,2606,377910,Deviated nasal septum,outcome
+2605,2606,381581,Chalazion,outcome
+2605,2606,260134,Croup,outcome
+2605,2606,196456,Gallstone,outcome
+2605,2606,441788,Human papilloma virus infection,outcome
+2605,2606,139099,Ingrowing nail,outcome
+2605,2606,4134455,Mononeuropathy,outcome
+2605,2606,4215978,Onychomycosis,outcome
+2605,2606,4112731,Polyp of intestine,outcome
+2605,2606,140641,Verruca vulgaris,outcome
+2605,2606,260427,Common cold,outcome
+2605,2606,4332246,Aneurysm,outcome
+2605,2606,432585,Blood coagulation disorder,outcome
+2605,2606,77310,Deep vein phlebitis and thrombophlebitis of the leg,outcome
+2605,2606,4010658,Difficulty passing urine,outcome
+2605,2606,440674,Gout,outcome
+2605,2606,4078925,Pulmonary edema,outcome
+2605,2606,378416,Retinal disorder,outcome
+2605,2606,4032878,Hair follicle disorder,outcome
+2605,2606,194475,Hiccoughs,outcome
+2605,2606,377910,Deviated nasal septum,outcome
